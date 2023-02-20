@@ -6,4 +6,4 @@ app.get("/gadgets", (request, response) => {
 });
 app.listen(3000);
 
-//export.module = app;
+export.module = app;
